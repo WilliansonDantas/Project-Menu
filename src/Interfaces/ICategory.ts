@@ -1,5 +1,5 @@
 export default interface ICategory {
   id?: string;
-  parent: "Category" | null;
+  parent: string[] | null;
   name: string;
 }
