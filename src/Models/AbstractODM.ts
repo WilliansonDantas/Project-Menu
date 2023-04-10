@@ -6,7 +6,7 @@ import {
 } from 'mongoose';
 
 class AbstractODM<T> {
-  private model: Model<T>;
+  protected model: Model<T>;
   private schema: Schema;
   private modelName: string;
 
