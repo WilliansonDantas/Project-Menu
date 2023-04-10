@@ -2,7 +2,7 @@ import ICategory from '../Interfaces/ICategory';
 
 export default class Category {
   protected id?: string;
-  protected parent: "Category" | null;
+  protected parent: string[] | null;
   protected name: string;
 
   constructor(category: ICategory) {
@@ -23,7 +23,7 @@ export default class Category {
     return this.parent;
   }
 
-  public setParent(parent: "Category" | null) {
+  public setParent(parent: string[] | null) {
     this.parent = parent;
   }
 
