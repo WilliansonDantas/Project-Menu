@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsnd src/server.ts"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,9 @@
   "devDependencies": {
     "@types/express": "^4.17.17",
     "@types/mongoose": "^5.11.97",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "ts-node": "10.4.0",
+    "ts-node-dev": "1.1.8",
+    "dotenv": "16.0.0"
   }
 }
