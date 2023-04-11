@@ -4,6 +4,12 @@ O Menu é uma API com CRUD para gerenciar um cardápio online. Isso foi feito ut
 
 -----
 
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Motivo do uso das ferramentas, frameworks ou tecnologias utilizadas:
+
+Utilizei Typescript, NodeJS, Express, MongoDB, Mongoose e JWT por serem ferramentas que possuo conhecimento prévio e utilizei na construção de outros projetos similares a este.
+
+-----
+
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Instalação:
 
 Para instalar este projeto, é necessário ter o Node.js e o MongoDB instalados em seu sistema.
