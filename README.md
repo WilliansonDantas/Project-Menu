@@ -34,7 +34,7 @@ Instale as dependências:
 
 ```npm install```
 
-Crie um arquivo ```.env```, utilizando as informações contidas no arquivo
+Crie um arquivo ```.env```, utilizando as informações contidas no arquivo:
 
 ```.env-example```
 
@@ -44,8 +44,8 @@ Crie um arquivo ```.env```, utilizando as informações contidas no arquivo
 
 Rode o serviço `db` com o comando `docker-compose up -d`.
 
-  - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`)
-  - Esse serviço irá inicializar um container chamado `menu_db`
+  - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`);
+  - Esse serviço irá inicializar um container chamado `menu_db`.
 
 -----
 
@@ -55,7 +55,7 @@ Para iniciar o servidor, execute o seguinte comando:
 
 ```npm run dev```
 
-Isso iniciará o servidor em 
+Isso iniciará o servidor em:
 
 ```http://localhost:3001```
 
@@ -65,7 +65,7 @@ Isso iniciará o servidor em
 
  - Express: um framework de aplicativo da web minimalista e flexível para Node.js;
  - Jsonwebtoken: uma implementação de token JSON Web para Node.js;
- - Mongoose: uma ferramenta de modelagem de objetos MongoDB projetada para funcionar em um ambiente assíncrono;
+ - Mongoose: uma ferramenta de modelagem de objetos MongoDB projetada para funcionar em um ambiente assíncrono.
 
 -----
 
