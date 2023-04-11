@@ -30,7 +30,9 @@ Isso iniciará o servidor em
 
 Você pode acessar a documentação da API navegando até 
 
-```http://localhost:3001/api-docs em seu navegador da web```.
+```http://localhost:3001/api-docs```
+
+em seu navegador da web.
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Dependências:
 
