@@ -2,6 +2,7 @@
 
 O Menu é uma API com CRUD para gerenciar gerenciar um cardápio online. Isso foi feito utilizando o banco de dados MongoDB através do framework do Mongoose e JWT para autenticação do usuário.
 
+-----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Instalação:
 
@@ -19,13 +20,17 @@ Instale as dependências:
 
 ```npm install```
 
-## 👉 Com Docker
+-----
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Com Docker:
 
 Rode os serviços `node` e `db` com o comando `docker-compose up -d`.
 
   - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`), ou adapte, caso queria fazer uso da aplicação em containers
   - Esses serviços irão inicializar um container chamado `menu` e outro chamado `menu_db`.
   - A partir daqui você pode rodar o container `menu` via CLI ou abri-lo no VS Code.
+
+-----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Uso:
 
@@ -43,12 +48,15 @@ Você pode acessar a documentação da API navegando até
 
 em seu navegador da web.
 
+-----
+
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Dependências:
 
  - Express: um framework de aplicativo da web minimalista e flexível para Node.js.
  - Jsonwebtoken: uma implementação de token JSON Web para Node.js.
  - Mongoose: uma ferramenta de modelagem de objetos MongoDB projetada para funcionar em um ambiente assíncrono.
 
+-----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Dependências de desenvolvimento:
 
