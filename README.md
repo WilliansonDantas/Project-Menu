@@ -13,7 +13,7 @@ O Menu é uma API com CRUD para gerenciar um cardápio online. Isso foi feito ut
 - Mongoose por fornecer uma interface orientada a objetos para trabalhar com o MongoDB;
 - JWT: JSON Web Tokens por permitir criar um sistema seguro de autenticação;
 
-Além dos fatos mencionados anteriormente, a escolha se deu pela solicitação do projeto e por serem ferramentas que possuo conhecimento prévio e utilizei na construção de outros projetos similares a este, exemplo: ```https://github.com/WilliansonDantas/project-car-shop```.
+Além dos fatos mencionados anteriormente, a escolha se deu pela solicitação do projeto e por serem ferramentas que possuo conhecimento prévio e utilizei na construção de outros projetos similares a este, exemplo: [Car Shop](https://nodejs.org/en/](https://github.com/WilliansonDantas/project-car-shop).
 
 -----
 
@@ -58,20 +58,20 @@ Isso iniciará o servidor em
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Dependências:
 
- - Express: um framework de aplicativo da web minimalista e flexível para Node.js.
- - Jsonwebtoken: uma implementação de token JSON Web para Node.js.
- - Mongoose: uma ferramenta de modelagem de objetos MongoDB projetada para funcionar em um ambiente assíncrono.
+ - Express: um framework de aplicativo da web minimalista e flexível para Node.js;
+ - Jsonwebtoken: uma implementação de token JSON Web para Node.js;
+ - Mongoose: uma ferramenta de modelagem de objetos MongoDB projetada para funcionar em um ambiente assíncrono;
 
 -----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Dependências de desenvolvimento:
 
- - @types/express: definições TypeScript para o Express.
- - @types/jsonwebtoken: definições TypeScript para o Jsonwebtoken.
- - @types/mongoose: definições TypeScript para o Mongoose.
- - dotenv: um módulo sem dependência que carrega variáveis de ambiente de um arquivo .env para process.env.
- - ts-node: um mecanismo de execução e REPL TypeScript para Node.js.
- - ts-node-dev: uma ferramenta de desenvolvimento que executa um script TypeScript e o reinicia em caso de alterações de arquivos.
+ - @types/express: definições TypeScript para o Express;
+ - @types/jsonwebtoken: definições TypeScript para o Jsonwebtoken;
+ - @types/mongoose: definições TypeScript para o Mongoose;
+ - dotenv: um módulo sem dependência que carrega variáveis de ambiente de um arquivo .env para process.env;
+ - ts-node: um mecanismo de execução e REPL TypeScript para Node.js;
+ - ts-node-dev: uma ferramenta de desenvolvimento que executa um script TypeScript e o reinicia em caso de alterações de arquivos;
  - TypeScript: um superset do JavaScript que adiciona tipagem estática opcional à linguagem.
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
