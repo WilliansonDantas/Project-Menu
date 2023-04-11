@@ -19,6 +19,14 @@ Instale as dependências:
 
 ```npm install```
 
+## 👉 Com Docker
+
+Rode os serviços `node` e `db` com o comando `docker-compose up -d`.
+
+  - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`), ou adapte, caso queria fazer uso da aplicação em containers
+  - Esses serviços irão inicializar um container chamado `menu` e outro chamado `menu_db`.
+  - A partir daqui você pode rodar o container `menu` via CLI ou abri-lo no VS Code.
+
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Uso:
 
 Para iniciar o servidor, execute o seguinte comando:
