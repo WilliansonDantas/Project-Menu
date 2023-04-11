@@ -4,9 +4,15 @@ O Menu é uma API com CRUD para gerenciar um cardápio online. Isso foi feito ut
 
 -----
 
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Motivo do uso das ferramentas, frameworks ou tecnologias utilizadas:
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Motivo da escolha das ferramentas:
 
-Utilizei Typescript, NodeJS, Express, MongoDB, Mongoose e JWT por serem ferramentas que possuo conhecimento prévio e utilizei na construção de outros projetos similares a este.
+- Typescript por ser uma linguagem de programação que adiciona recursos de tipagem estática, interfaces e recursos de programação orientada a objetos que ajudam a minimizar erros antes mesmo de compilar o código
+- NodeJS por ser versátil e por permitir escrever aplicativos em JavaScript
+- Express por ser um framework de aplicativos web para NodeJS que fornece uma variedade de recursos para facilitar o desenvolvimento de aplicativos web - - MongoDB por ser amplamente utilizado em aplicativos web para armazenar e gerenciar dados de forma eficiente
+- Mongoose por fornecer uma interface orientada a objetos para trabalhar com o MongoDB, permitindo que os desenvolvedores definam esquemas de dados e manipulem dados de forma fácil e intuitiva
+- JWT: JSON Web Tokens (JWT) por tornar mais fácil criar um sistema seguro de autenticação e autorização
+
+Além dos fatos mencionados a escolha também se deu pela solicitação do projeto e por serem ferramentas que possuo conhecimento prévio e utilizei na construção de outros projetos similares a este.
 
 -----
 
