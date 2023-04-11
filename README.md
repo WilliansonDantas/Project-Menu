@@ -24,7 +24,7 @@ Para instalar este projeto, é necessário ter o Node.js e o MongoDB instalados 
 
 Clone este repositório: 
 
-``` git clone https://github.com/WilliansonDantas/menu.git ```
+``` git clone git@github.com:WilliansonDantas/Project-Menu.git ```
 
 Navegue até o diretório do projeto: 
 
