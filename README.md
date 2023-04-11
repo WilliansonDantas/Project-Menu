@@ -79,6 +79,8 @@ Isso iniciará o servidor em:
  - ts-node-dev: uma ferramenta de desenvolvimento que executa um script TypeScript e o reinicia em caso de alterações de arquivos;
  - TypeScript: um superset do JavaScript que adiciona tipagem estática opcional à linguagem.
 
+-----
+
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
 
 - [Node.js](https://nodejs.org/en/)
