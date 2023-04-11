@@ -1,6 +1,7 @@
 # Menu
 
-Este projeto é uma API simples de menu criada com Node.js e Express. Ele usa o MongoDB para armazenamento de dados e JWT para autenticação do usuário.
+O Menu é uma API com CRUD para gerenciar gerenciar um cardápio online. Isso foi feito utilizando o banco de dados MongoDB através do framework do Mongoose e JWT para autenticação do usuário.
+
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Instalação:
 
