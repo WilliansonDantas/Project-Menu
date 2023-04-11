@@ -34,7 +34,7 @@ Instale as dependências:
 
 ```npm install```
 
-Criei um arquivo .env, utilizando as informações contidas no arquivo
+Crie um arquivo ```.env```., utilizando as informações contidas no arquivo
 
 ```.env-example```
 
