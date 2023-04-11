@@ -28,7 +28,7 @@ Clone este repositório:
 
 Navegue até o diretório do projeto: 
 
-```cd menu```
+```cd Project-Menu```
 
 Instale as dependências: 
 
