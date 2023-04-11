@@ -26,9 +26,8 @@ Instale as dependências:
 
 Rode o serviço `db` com o comando `docker-compose up -d`.
 
-  - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`), ou adapte, caso queria fazer uso da aplicação em containers
-  - Esses serviços irão inicializar um container chamado `menu` e outro chamado `menu_db`.
-  - A partir daqui você pode rodar o container `menu` via CLI ou abri-lo no VS Code.
+  - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`)
+  - Esse serviço irá inicializar um container chamado `menu_db`
 
 -----
 
@@ -40,13 +39,7 @@ Para iniciar o servidor, execute o seguinte comando:
 
 Isso iniciará o servidor em 
 
-```http://localhost:3001```.
-
-Você pode acessar a documentação da API navegando até 
-
-```http://localhost:3001/api-docs```
-
-em seu navegador da web.
+```http://localhost:3001```
 
 -----
 
