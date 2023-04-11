@@ -60,3 +60,12 @@ Isso iniciará o servidor em
  - ts-node: um mecanismo de execução e REPL TypeScript para Node.js.
  - ts-node-dev: uma ferramenta de desenvolvimento que executa um script TypeScript e o reinicia em caso de alterações de arquivos.
  - TypeScript: um superset do JavaScript que adiciona tipagem estática opcional à linguagem.
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
+
+- [Node.js](https://nodejs.org/en/);
+- [Express.js](https://expressjs.com/);
+- [MongoDB](https://www.mongodb.com/home);
+- [Mongoose(ODM)](https://mongoosejs.com/);
+- [Docker](https://www.docker.com/);
+- [TypeScript](https://www.typescriptlang.org/);
