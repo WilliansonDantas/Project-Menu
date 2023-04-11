@@ -81,9 +81,9 @@ Isso iniciará o servidor em:
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
 
-- [Node.js](https://nodejs.org/en/);
-- [Express.js](https://expressjs.com/);
-- [MongoDB](https://www.mongodb.com/home);
-- [Mongoose(ODM)](https://mongoosejs.com/);
-- [Docker](https://www.docker.com/);
-- [TypeScript](https://www.typescriptlang.org/);
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/home)
+- [Mongoose(ODM)](https://mongoosejs.com/)
+- [Docker](https://www.docker.com/)
+- [TypeScript](https://www.typescriptlang.org/)
