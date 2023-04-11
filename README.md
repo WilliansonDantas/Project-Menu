@@ -34,6 +34,10 @@ Instale as dependências:
 
 ```npm install```
 
+Criei um arquivo .env, utilizando as informações contidas no arquivo
+
+```.env-example```
+
 -----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Docker:
