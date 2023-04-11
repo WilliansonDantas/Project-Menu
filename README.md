@@ -22,9 +22,9 @@ Instale as dependências:
 
 -----
 
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Com Docker:
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Docker:
 
-Rode os serviços `node` e `db` com o comando `docker-compose up -d`.
+Rode os serviços `db` com o comando `docker-compose up -d`.
 
   - Lembre-se de parar o `mongo` se estiver usando localmente na porta padrão (`27017`), ou adapte, caso queria fazer uso da aplicação em containers
   - Esses serviços irão inicializar um container chamado `menu` e outro chamado `menu_db`.
